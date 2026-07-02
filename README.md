@@ -41,7 +41,7 @@ https://github.com/BlessyLouis/proteccio-data-compliance-assistant
 
 ### Demo Video
 
-(Add Google Drive / YouTube link here)
+https://www.loom.com/share/033e03176b794af2b0c5d769a885981cs
 
 ---
 
@@ -51,7 +51,7 @@ https://github.com/BlessyLouis/proteccio-data-compliance-assistant
 |-----------|--------|
 | Live Application | https://proteccio-data-compliance-assistant-cqfhhpw69gxjvgwwbtq6zs.streamlit.app/
 | GitHub Repository | https://github.com/BlessyLouis/proteccio-data-compliance-assistant |
-| Demo Video | Add Video Link |
+| Demo Video |https://www.loom.com/share/033e03176b794af2b0c5d769a885981c
 
 
 ## 1. Project Overview
