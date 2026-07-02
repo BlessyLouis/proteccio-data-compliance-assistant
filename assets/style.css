@@ -361,10 +361,15 @@ div[data-testid="stDownloadButton"] > button:hover {
 
 /* ---------- Tabs ---------- */
 .stTabs [data-baseweb="tab-list"] {
-    gap: 4px; border-bottom: 1px solid var(--pc-border);
+    gap: 28px;
+    border-bottom: 1px solid var(--pc-border);
 }
 .stTabs [data-baseweb="tab"] {
-    color: var(--pc-text-faint); font-weight: 600; font-size: 13px;
+    color: var(--pc-text-faint);
+    font-weight: 600;
+    font-size: 13px;
+    padding: 10px 4px;
+    white-space: nowrap;
 }
 .stTabs [aria-selected="true"] {
     color: var(--pc-primary) !important;
