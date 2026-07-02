@@ -21,6 +21,38 @@ Document Chat source attribution + retrieval confidence, and replaced
 the Audit Logs table with a visual activity timeline.
 
 ---
+# 🛡️ Proteccio Data — AI Compliance Intelligence Platform (v2.0)
+
+An enterprise-grade AI compliance and data-security platform...
+
+...
+
+---
+
+## 🚀 Live Demo
+
+### Application
+
+https://proteccio-data-compliance-assistant-cqfhhpw69gxjvgwwbtq6zs.streamlit.app/
+
+### GitHub Repository
+
+https://github.com/BlessyLouis/proteccio-data-compliance-assistant
+
+### Demo Video
+
+(Add Google Drive / YouTube link here)
+
+---
+
+### Quick Access
+
+| Resource | Link |
+|-----------|--------|
+| Live Application | https://proteccio-data-compliance-assistant-cqfhhpw69gxjvgwwbtq6zs.streamlit.app/
+| GitHub Repository | https://github.com/BlessyLouis/proteccio-data-compliance-assistant |
+| Demo Video | Add Video Link |
+
 
 ## 1. Project Overview
 
@@ -219,6 +251,11 @@ retrieval (falls back to keyword search) require the key.
 
 ## 10. Deployment Instructions
 
+### Hosted Application
+
+https://proteccio-data-compliance-assistant-cqfhhpw69gxjvgwwbtq6zs.streamlit.app/
+
+---
 ### Streamlit Community Cloud
 1. Push this repository to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io) and connect
